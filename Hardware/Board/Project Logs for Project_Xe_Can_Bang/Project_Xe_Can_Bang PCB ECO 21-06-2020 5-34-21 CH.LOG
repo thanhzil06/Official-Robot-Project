@@ -1,0 +1,19 @@
+Added Component: Designator=U4(SOT108-1_NEX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC14D,652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Nexperia_2018-05-2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Nexperia"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ENC_1A Pin=U4-1
+Added Pin To Net: NetName=NetU1_16 Pin=U4-2
+Added Pin To Net: NetName=ENC_1B Pin=U4-3
+Added Pin To Net: NetName=NetU1_17 Pin=U4-4
+Added Pin To Net: NetName=ENC_2A Pin=U4-5
+Added Pin To Net: NetName=NetU1_43 Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=NetU1_42 Pin=U4-8
+Added Pin To Net: NetName=ENC_2B Pin=U4-9
+Added Pin To Net: NetName=3V3_MC Pin=U4-14
+Added Member To Class: ClassName=Sensor Member=Component U4 74HC14D,652
