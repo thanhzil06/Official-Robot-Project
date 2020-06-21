@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Project_Xe_Can_Bang
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MLXTNPMB
 
 [Document8]
 DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a.IntLib
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HYQVEVFB
 
 [Document13]
 DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\434113043826_Altium_WS-TASV_rev20a.IntLib
@@ -290,7 +290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GBFPMAAF
 
 [Document16]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Active-Component\BJT.PcbLib
@@ -358,7 +358,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YBRYYTJX
 
 [Document20]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Active-Component\LED.PcbLib
@@ -426,7 +426,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LNXXSBOO
 
 [Document24]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Board\Board.PcbLib
@@ -460,7 +460,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OCKQQWAQ
 
 [Document26]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Header-connector\Header-connector.PcbLib
@@ -494,7 +494,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TSGCLNVU
 
 [Document28]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\MicroController\MC.PcbLib
@@ -528,7 +528,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BAPTHKTN
 
 [Document30]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Logic-IC\LI.PcbLib
@@ -562,7 +562,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VDXNNVKK
 
 [Document32]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Passive-Component\Capacitor.PcbLib
@@ -596,7 +596,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XYNEQVDB
 
 [Document34]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Passive-Component\Capacitor-TH.PcbLib
@@ -630,7 +630,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUPNPBXO
 
 [Document36]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Passive-Component\Inductor.PcbLib
@@ -732,7 +732,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KKMLDFHN
 
 [Document42]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\altium_lib\Power-IC\PI.PcbLib
@@ -766,7 +766,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HYAMIXMJ
 
 [Document44]
 DocumentPath=..\..\..\..\Altium Lib_Mr Tuan\Lib of Altium\2020-05-24_07-17-17\2020-05-24_07-17-17.PcbLib
@@ -817,7 +817,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GLONPCVB
 
 [Document47]
 DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\L7805pcb.pcblib
@@ -870,6 +870,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INVRTPSL
 
+[Document50]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\LED_150060BS75000_Altium_WL-SMCW_rev20a.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document51]
+DocumentPath=Project.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document52]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\WS-DITV.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document53]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\WS-DITV.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -879,6 +947,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Project_Xe_Can_Bang
 
 [OutputGroup1]
 Name=Netlist Outputs
