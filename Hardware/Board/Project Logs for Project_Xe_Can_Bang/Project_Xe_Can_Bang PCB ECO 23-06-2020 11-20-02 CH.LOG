@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=5V Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=3V3_BLU Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=5V Pin=R7-2
+Removed Pin From Net: NetName=5V Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=3V3_BLU Pin=U2-5
+Removed Member From Class: ClassName=Power_Supply Member=C14
+Removed Member From Class: ClassName=Power_Supply Member=Q2
+Removed Member From Class: ClassName=Power_Supply Member=R7
+Removed Member From Class: ClassName=Power_Supply Member=R9
+Removed Member From Class: ClassName=Power_Supply Member=U2
+Added Component: Designator=C13(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-10uf-50v-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KKX5R9BB106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KKX5R9BB106/311-3499-2-ND/7164383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "311-3499-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LM317"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=3V3_BLU Pin=C13-2
+Added Pin To Net: NetName=GND Pin=IC4-1
+Added Pin To Net: NetName=3V3_BLU Pin=IC4-2
+Added Pin To Net: NetName=5V Pin=IC4-3
+Added Pin To Net: NetName=3V3_BLU Pin=IC4-4
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Net: Name=NetU1_14
+Added Member To Class: ClassName=Power_Supply Member=Component IC4 AMS1117
