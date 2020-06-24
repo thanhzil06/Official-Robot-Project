@@ -1075,7 +1075,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DSOLOCQI
 
 [Document62]
-DocumentPath=..\..\..\PIFWRoBot\Schematic\Bluetooth.SchDoc
+DocumentPath=Bluetooth.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1089,10 +1089,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QEWULFBX
+DocumentUniqueId=
 
 [Document63]
-DocumentPath=..\..\..\PIFWRoBot\Schematic\Decawave.SchDoc
+DocumentPath=Decawave.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1106,10 +1106,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YIFHEAVG
+DocumentUniqueId=
 
 [Document64]
-DocumentPath=..\..\..\PIFWRoBot\Schematic\RF.SchDoc
+DocumentPath=RF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1123,10 +1123,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MMYNDCIM
+DocumentUniqueId=
 
 [Document65]
-DocumentPath=..\..\..\PIFWRoBot\Schematic\Wifi.SchDoc
+DocumentPath=Wifi.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1140,7 +1140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TDIFSNGO
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
