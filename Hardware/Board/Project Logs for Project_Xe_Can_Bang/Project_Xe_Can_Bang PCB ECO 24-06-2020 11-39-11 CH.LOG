@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Motor_Controller Member=U5
+Added Pin To Net: NetName=3V3_WIFI Pin=M10-8
+Added Pin To Net: NetName=ESP_RX Pin=M10-21
+Added Pin To Net: NetName=BOOT0 Pin=P1-3
+Added Pin To Net: NetName=BLUE_ENB Pin=U1-32
+Added Pin To Net: NetName=DWM_RX Pin=U6-18
+Added Pin To Net: NetName=DWM_READY Pin=U6-19
+Added Pin To Net: NetName=DWM_TX Pin=U6-20
