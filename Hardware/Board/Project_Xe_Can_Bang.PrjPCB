@@ -970,7 +970,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KYKDDFKT
+DocumentUniqueId=RQLKJOWI
 
 [Document56]
 DocumentPath=..\..\..\PIFWRoBot\AltiumDesigner\IRLML6402TRPBF\2020-06-19_14-54-17.PcbLib
@@ -1038,7 +1038,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WRGHVXJH
+DocumentUniqueId=ADDNLKXW
 
 [Document60]
 DocumentPath=..\..\..\PIFWRoBot\Library from Ultra\DWM1001.PcbLib
@@ -1081,7 +1081,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1089,7 +1089,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QEWULFBX
 
 [Document63]
 DocumentPath=Decawave.SchDoc
@@ -1098,7 +1098,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1106,7 +1106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YIFHEAVG
 
 [Document64]
 DocumentPath=RF.SchDoc
@@ -1115,7 +1115,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1123,10 +1123,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MMYNDCIM
 
 [Document65]
 DocumentPath=Wifi.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TDIFSNGO
+
+[Document66]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a\WR-TBL_Pluggable PCB Header.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1140,7 +1157,126 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AYCIJCCS
+
+[Document67]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a\WR-TBL_Pluggable PCB Header.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HMCGWNOG
+
+[Document68]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a\WR-TBL_Rising Cage Clamp.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AYCIJCCS
+
+[Document69]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a\WR-TBL_Rising Cage Clamp.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KRBEAHRO
+
+[Document70]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a\WR-TBL_Spring Clamp.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OOTRSSVN
+
+[Document71]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a\WR-TBL_Spring Clamp.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=REJSEXGD
+
+[Document72]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a\WR-TBL_Wire Protector.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VUMKQGFP
+
+[Document73]
+DocumentPath=..\..\..\..\..\..\..\Electronics\PIF Courses\Altium project\Lib of Altium\Domino_5mm_691101710002_Altium_WR-TBL_rev19a\WR-TBL_Wire Protector.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HMKYKMGU
 
 [Configuration1]
 Name=Sources
