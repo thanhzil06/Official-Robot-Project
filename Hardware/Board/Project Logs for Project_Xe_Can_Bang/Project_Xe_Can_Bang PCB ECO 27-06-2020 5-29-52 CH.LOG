@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Added Pin To Net: NetName=BOOT0 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=BOOT1 Pin=P2-2
+Added Pin To Net: NetName=3V3_MC Pin=P2-3
+Added Member To Class: ClassName=MCU Member=Component P3 Header 3

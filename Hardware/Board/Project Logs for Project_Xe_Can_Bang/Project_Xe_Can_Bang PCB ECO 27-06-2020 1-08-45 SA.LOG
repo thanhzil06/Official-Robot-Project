@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=R6-1
+Removed Pin From Net: NetName=LED Pin=R6-2
+Change Component Footprint: Designator=R6 Old Footprint=RES 1/4W New Footprint=RES-SM-0805
+Change Component Comment : Designator=R6 Old Comment=Resistor 1/4W New Comment=Res-1K-0805
+Change component parameters: Designator = "R6"; Footprint = "RES-SM-0805"; UniqueID = "\RBXNLWWY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/dien-tro-1k-ohm-0805-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RNCP0805FTD1K00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RNCP0805FTD1K00/RNCP0805FTD1K00CT-ND/2240568"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part Number"; Value = "RNCP0805FTD1K00CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED Pin=R6-1
+Added Pin To Net: NetName=NetD1_1 Pin=R6-2
+Added Room: Name=Bluetooth
+Added Room: Name=Decawave
+Added Room: Name=RF
+Added Room: Name=Wifi

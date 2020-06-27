@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=3V3_MC Pin=R12-1
+Added Pin To Net: NetName=3V3_MC Pin=R13-1
+Added Pin To Net: NetName=3V3_MC Pin=R14-1
+Added Room: Name=Bluetooth
+Added Room: Name=Decawave
+Added Room: Name=RF
+Added Room: Name=Wifi

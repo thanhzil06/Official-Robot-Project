@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C26 Old Footprint=CAP-SM-AL-SIZE-D-D6L6 New Footprint=CAP_SM_TAN
+Change Component Comment : Designator=C26 Old Comment=Cap-Al-100uF-16V-D6L5 New Comment=TAJB107M006RNJ
+Change component parameters: Designator = "C26"; Footprint = "CAP_SM_TAN"; UniqueID = "\QYFRJXWH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Local Supplier"; Value = "icdayroi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Local Supplier Link"; Value = "https://icdayroi.com/tu-tantalum-100uf-16v-smd6032"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "UWX1C101MCL1GB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/nichicon/UWX1C101MCL1GB/493-2105-1-ND/590080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part Number"; Value = "493-2105-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF/16V"; VariantName = "[No Variations]"
