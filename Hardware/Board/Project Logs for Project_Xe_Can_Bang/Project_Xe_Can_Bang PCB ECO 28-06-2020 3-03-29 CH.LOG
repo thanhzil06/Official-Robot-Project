@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BOOT1 Pin=P2-2
+Removed Pin From Net: NetName=BOOT1 Pin=R5-2
+Change Net Name : Old Net Name=BOOT1 New Net Name=RF_SET
+Added Pin To Net: NetName=BOOT1 Pin=P2-2
+Added Pin To Net: NetName=BOOT1 Pin=R5-2
+Added Net: Name=BOOT1
