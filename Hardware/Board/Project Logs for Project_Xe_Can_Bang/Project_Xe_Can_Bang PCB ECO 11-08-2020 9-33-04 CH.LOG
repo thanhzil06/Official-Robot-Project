@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=BLU_KEY Pin=R18-1
+Removed Pin From Net: NetName=BLUE_ENB Pin=R18-2
+Removed Pin From Net: NetName=BLUE_ENB Pin=S5-2
+Removed Pin From Net: NetName=BLUE_ENB Pin=U1-32
+Removed Member From Class: ClassName=Bluetooth Member=D2
+Removed Member From Class: ClassName=Bluetooth Member=R15
+Removed Member From Class: ClassName=Bluetooth Member=R18
+Added Component: Designator=C35(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local Supplier"; Value = "thegioiic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Supplier Link"; Value = "https://thegioiic.com/products/tu-100nf-0-1uf-50v-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21F104ZBCNNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Link"; Value = "https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21F104ZBCNNNC/1276-1007-1-ND/3889093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "1276-1007-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=BLU_KEY Pin=C35-2
+Added Pin To Net: NetName=BLU_KEY Pin=S5-2
+Added Pin To Net: NetName=BLU_KEY Pin=U1-32
+Added Member To Class: ClassName=Bluetooth Member=Component C35 Cap-100nF-50V-0805
