@@ -970,7 +970,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EXSHXTRT
+DocumentUniqueId=YONIXREX
 
 [Document56]
 DocumentPath=..\..\..\PIFWRoBot\AltiumDesigner\IRLML6402TRPBF\2020-06-19_14-54-17.PcbLib
@@ -1038,7 +1038,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SPRIBJBT
+DocumentUniqueId=XAIWMOHI
 
 [Document60]
 DocumentPath=..\..\..\PIFWRoBot\Library from Ultra\DWM1001.PcbLib
@@ -1141,6 +1141,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDIFSNGO
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Project_Xe_Can_Bang\Design Rule Check - Project_Xe_Can_Bang.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

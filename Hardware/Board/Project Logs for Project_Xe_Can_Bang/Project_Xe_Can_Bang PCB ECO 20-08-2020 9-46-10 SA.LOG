@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=Wifi Member=C22
+Removed Member From Class: ClassName=Wifi Member=C24
+Removed Member From Class: ClassName=Decawave Member=C29
+Removed Member From Class: ClassName=RF Member=C31
+Removed Member From Class: ClassName=RF Member=C32
+Removed Member From Class: ClassName=Wifi Member=M8
+Removed Member From Class: ClassName=MCU Member=P6
+Removed Member From Class: ClassName=Sensor Member=P10
+Removed Member From Class: ClassName=Decawave Member=P30
+Removed Member From Class: ClassName=Wifi Member=R18
+Removed Member From Class: ClassName=Wifi Member=R19
+Removed Member From Class: ClassName=RF Member=R21
+Removed Member From Class: ClassName=Wifi Member=R21
+Removed Member From Class: ClassName=Wifi Member=R22
+Removed Member From Class: ClassName=Wifi Member=R23
+Removed Member From Class: ClassName=Wifi Member=R24
+Removed Member From Class: ClassName=Wifi Member=R25
+Removed Member From Class: ClassName=Decawave Member=R31
+Removed Member From Class: ClassName=Decawave Member=R32
+Removed Member From Class: ClassName=RF Member=R33
+Removed Member From Class: ClassName=Decawave Member=R34
+Removed Member From Class: ClassName=Decawave Member=R38
+Removed Member From Class: ClassName=Decawave Member=U6
+Added Member To Class: ClassName=Decawave Member=Component C25 Cap-100nF-50V-0805
+Added Member To Class: ClassName=RF Member=Component C27 Cap-100nF-50V-0805
+Added Member To Class: ClassName=RF Member=Component C28 Cap-100nF-50V-0805
+Added Member To Class: ClassName=Wifi Member=Component C33 Cap-100nF-50V-0805
+Added Member To Class: ClassName=Wifi Member=Component C35 Cap-100nF-50V-0805
+Added Member To Class: ClassName=Wifi Member=Component M9 ESP8266-12F
+Added Member To Class: ClassName=Sensor Member=Component P8 691322310004
+Added Member To Class: ClassName=Decawave Member=Component P25 Header 5
+Added Member To Class: ClassName=Decawave Member=Component P27 Header 3
+Added Member To Class: ClassName=RF Member=Component P31 Header 2
+Added Member To Class: ClassName=Decawave Member=Component R22 Res-10k-0805
+Added Member To Class: ClassName=Decawave Member=Component R23 Res-10k-0805
+Added Member To Class: ClassName=Decawave Member=Component R24 Res-1K-0805
+Added Member To Class: ClassName=Decawave Member=Component R25 Res-1K-0805
+Added Member To Class: ClassName=RF Member=Component R26 Res-1K-0805
+Added Member To Class: ClassName=RF Member=Component R27 Res-1K-0805
+Added Member To Class: ClassName=Wifi Member=Component R31 Res-1K-0805
+Added Member To Class: ClassName=Wifi Member=Component R32 Res-12K-0805
+Added Member To Class: ClassName=Wifi Member=Component R34 Res-12K-0805
+Added Member To Class: ClassName=Wifi Member=Component R35 Res-12K-0805
+Added Member To Class: ClassName=Wifi Member=Component R36 Res-1K-0805
+Added Member To Class: ClassName=Wifi Member=Component R37 Res-12K-0805
+Added Member To Class: ClassName=Wifi Member=Component R38 Res-12K-0805
+Added Member To Class: ClassName=Decawave Member=Component U5 DWM1001
