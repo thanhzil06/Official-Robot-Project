@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Project_Xe_Can_Bang.PcbDoc   09/09/2020  10:57:51 SA
+NCDrill File Report For: Project_Xe_Can_Bang.PcbDoc   10/09/2020  10:01:15 SA
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,18 +7,17 @@ ASCII RoundHoles File : Project_Xe_Can_Bang.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      1mil (0.025mm)                                            Round             2         PTH        0.00inch (0.00mm)
-T2      16mil (0.399mm)                                           Round             175       PTH        0.00inch (0.00mm)
-T3      24mil (0.61mm)                                            Round             4         PTH        0.00inch (0.00mm)
-T4      32mil (0.8mm)                                             Round             12        PTH        0.00inch (0.00mm)
-T5      33mil (0.838mm)                                           Round             2         PTH        0.00inch (0.00mm)
-T6      36mil (0.914mm)                                           Round             98        PTH        0.00inch (0.00mm)
-T7      42mil (1.067mm)                                           Round             10        PTH        0.00inch (0.00mm)
-T8      43mil (1.1mm)                                             Round             32        PTH        0.00inch (0.00mm)
-T9      55mil (1.4mm)                                             Round             20        PTH        0.00inch (0.00mm)
-T10     59mil (1.501mm)                                           Round             3         PTH        0.00inch (0.00mm)
-T11     118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T1      16mil (0.399mm)                                           Round             175       PTH        0.00inch (0.00mm)
+T2      24mil (0.61mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T4      33mil (0.838mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T5      36mil (0.914mm)                                           Round             98        PTH        0.00inch (0.00mm)
+T6      42mil (1.067mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T7      43mil (1.1mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T8      55mil (1.4mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T9      59mil (1.501mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T10     118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              362
+Totals                                                                              360
 
 Total Processing Time (hh:mm:ss) : 00:00:00

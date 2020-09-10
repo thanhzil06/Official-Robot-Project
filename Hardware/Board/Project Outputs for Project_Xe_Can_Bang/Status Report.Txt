@@ -9,4 +9,4 @@ From  : Project [Project_Xe_Can_Bang.PrjPCB]
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:57:51 SA On 09/09/2020
+Finished Output Generation At 10:01:15 SA On 10/09/2020
