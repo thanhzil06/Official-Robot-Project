@@ -1,0 +1,9 @@
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\bin\Debug\GUI_Testing.exe.config
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\bin\Debug\GUI_Testing.exe
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\bin\Debug\GUI_Testing.pdb
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.csprojAssemblyReference.cache
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.Form1.resources
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.Properties.Resources.resources
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.csproj.GenerateResource.cache
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.exe
+D:\Trọng Thanh\visual code\C#\GUI_Testing\GUI_Testing\obj\Debug\GUI_Testing.pdb

@@ -1,0 +1,8 @@
+main.c:63:6:blink_Led_2HZ	16	static
+main.c:66:6:blink_Buzzer_halfHz	16	static
+main.c:75:5:main	8	static
+main.c:122:6:SystemClock_Config	72	static
+main.c:157:13:MX_TIM1_Init	32	static
+main.c:203:13:MX_GPIO_Init	32	static
+main.c:223:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:235:6:Error_Handler	4	static
