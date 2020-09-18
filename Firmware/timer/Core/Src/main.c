@@ -109,7 +109,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+	  one_ms_timer_interrupt();
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
